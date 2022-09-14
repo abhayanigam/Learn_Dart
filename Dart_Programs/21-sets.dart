@@ -1,5 +1,11 @@
 void main()
 {
+  // To create an empty set, use {} preceded by a type argument, or assign {} to a variable of type Set:
+
+  var names = <String>{};
+  // Set<String> names = {}; // This works, too.
+  // var names = {}; // Creates a map, not a set.
+
   // Set is a list kind of
   var countries = {'Iran', 'US', 'UK'};
 

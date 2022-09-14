@@ -1,5 +1,3 @@
-
-
 // Objectives
 // 1. Higher-Order Function:
 // How to pass function as parameter?

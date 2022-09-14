@@ -1,5 +1,4 @@
-void main()
-{
+void main() {
   // Create a list
   var names = ['Amarnath', 'Rohan', 'Asha'];
 
